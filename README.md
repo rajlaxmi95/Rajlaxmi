@@ -1,4 +1,4 @@
 # Rajlaxmi
 This is my first Git Repository.
 <br>
-Author- Rajlaxmi Gadhave
+Author- Rajlaxmi (student)
